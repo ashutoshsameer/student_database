@@ -55,12 +55,12 @@ $count=1;
 <head>
 <title>Admin Page</title>
 <link rel="shortcut icon" href="user.png">
- <script type="text/javascript" src="jquery.js"></script>
-<script type="text/javascript" src="materialize.js"></script>
-<script type="text/javascript" src="materialize.min.js"></script>
-<link rel="stylesheet" type="text/css" href="style1.css">
-<link rel="stylesheet" type="text/css" href="materialize.css">
-<link rel="stylesheet" type="text/css" href="materialize.min.css">
+ <script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/materialize.js"></script>
+<script type="text/javascript" src="js/materialize.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/style1.css">
+<link rel="stylesheet" type="text/css" href="css/materialize.css">
+<link rel="stylesheet" type="text/css" href="css/materialize.min.css">
 </head>
 <body>
 <h4 id="logout"><a href = "logout.php">Sign Out</a></h4>

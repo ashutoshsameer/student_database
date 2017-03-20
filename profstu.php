@@ -59,12 +59,12 @@ if (isset($_POST['stuname'])){
 
       <title>Welcome </title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-<script type="text/javascript" src="jquery.js"></script>
-<script type="text/javascript" src="materialize.js"></script>
-<script type="text/javascript" src="materialize.min.js"></script>
-<link rel="stylesheet" type="text/css" href="style1.css">
-<link rel="stylesheet" type="text/css" href="materialize.css">
-<link rel="stylesheet" type="text/css" href="materialize.min.css">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/materialize.js"></script>
+<script type="text/javascript" src="js/materialize.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/style1.css">
+<link rel="stylesheet" type="text/css" href="css/materialize.css">
+<link rel="stylesheet" type="text/css" href="css/materialize.min.css">
            <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />   -->
            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>  
            <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>

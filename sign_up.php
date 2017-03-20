@@ -34,12 +34,12 @@
     selectYears: 15, // Creates a dropdown of 15 years to control year
     format: 'dd-mm-yyyy' });
   </script> -->
-  <script type="text/javascript" src="jquery.js"></script>
-<script type="text/javascript" src="materialize.js"></script>
-<script type="text/javascript" src="materialize.min.js"></script>
-<link rel="stylesheet" type="text/css" href="style1.css">
-<link rel="stylesheet" type="text/css" href="materialize.css">
-<link rel="stylesheet" type="text/css" href="materialize.min.css">
+  <script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/materialize.js"></script>
+<script type="text/javascript" src="js/materialize.min.js"></script>
+<link rel="stylesheet" type="text/css" href="css/style1.css">
+<link rel="stylesheet" type="text/css" href="css/materialize.css">
+<link rel="stylesheet" type="text/css" href="css/materialize.min.css">
 <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>           
       <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>  -->
