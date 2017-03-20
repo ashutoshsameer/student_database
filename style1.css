@@ -1,0 +1,66 @@
+body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#log-in{
+	background-color: green;
+	width: 500px;
+}
+a:hover{
+	cursor: pointer;
+}
+.box2{
+	background-color: white;
+	padding: 30px;
+	transform: rotate(-3deg);
+	border-radius: 5px;
+}
+#logout{
+	position: absolute;
+	top:0%;
+	right: 0;
+}
+#logout a:link{
+   color: green;
+   text-decoration: none;
+}
+#logout a:visited{
+   color: red;
+   text-decoration: none;
+}
+#logout a:hover{
+   color: white;
+   text-decoration: underline;
+   transform: scale(2,2);
+}
+#logout a:active{
+   color: yellow;
+}
+#name{
+	position: absolute;
+	top: 0;
+	left: 30%;
+}
+.table1{
+	background-color: white;
+	border:3px solid black;
+	border-radius: 5px;
+	position: absolute;
+	width:50%;
+	top: 15%;
+	left: 40%;
+}
+.table2{
+	background-color: white;
+	border:3px solid black;
+	border-radius: 5px;
+	position: absolute;
+	width:50%;
+	top: 15%;
+	left: 25%;
+}
